@@ -17,16 +17,17 @@ h1 {
 }
 
 a {
-  color: #333; /* Default link color */
-  text-decoration: none; /* Remove underline */
+  color: white;
+  text-decoration: none;
+  
 }
 
 a:hover {
-  color: #555; /* Change color on hover if needed */
+  color: #555;
 }
 
 a:visited {
-  color: #333; /* Visited link color */
+  color: white;
 }
 
 section {
