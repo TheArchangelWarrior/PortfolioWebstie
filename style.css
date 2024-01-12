@@ -62,3 +62,33 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
+
+.hero {
+  background: url('banner-bg.jpg') no-repeat center center; 
+  background-size: cover;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.hero-content {
+  color: #fff;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
+
+.hero h1 {
+  font-size: 48px;
+  text-transform: uppercase;
+  margin-bottom: 16px; 
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #007bff;
+  color: #fff;
+  border-radius: 4px;
+  text-decoration: none;
+}
