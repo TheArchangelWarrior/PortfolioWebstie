@@ -19,7 +19,6 @@ nav a {
 }
 
 .hero {
-  background-image: url('Assets/banner.jpg');
   background-size: cover; 
   background-position: center;
   height: 300px;
